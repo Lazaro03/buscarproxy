@@ -8,7 +8,7 @@ import os
 from JDatabase import JsonDatabase
 import start
 
-permitidos = ["Zeta30"]
+permitidos = ["demian2008"]
 
 def filtrar_text(update, context):
     text = update.message.text
